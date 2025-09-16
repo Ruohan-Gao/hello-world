@@ -1,0 +1,243 @@
+.contact-page,
+.contact-page * {
+  box-sizing: border-box;
+}
+.contact-page {
+  background: #000000;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-6 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1287px;
+  position: absolute;
+  left: 84px;
+  top: 0px;
+}
+.frame-5 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-4 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.ruohan-gao {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 219px;
+  height: 47px;
+  -webkit-text-stroke: 1px #ffffff;
+}
+.frame-2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 454px;
+  position: relative;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.home-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.ruohan-gao-university-of-maryland-fall-2025 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 246px;
+  top: 891px;
+  width: 963px;
+}
+.frame-19 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 659px;
+  position: absolute;
+  left: 114px;
+  top: 162px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  height: 96px;
+}
+.frame-17 {
+  display: flex;
+  flex-direction: column;
+  gap: 51px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 542px;
+  position: relative;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 32px;
+}
+.frame-15 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 461px;
+  position: relative;
+}
+.professor-contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.paul-t-shapiro-pshapiro-umd-edu {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 442px;
+}
+.frame-16 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 429px;
+  position: relative;
+}
+.ta-contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+
+/* 页面和中间容器，强制左对齐 */
+.contact-page,
+.frame-17,
+.frame-18 {
+  text-align: left !important;
+}
+
+/* 如果容器用了 flex，把交叉轴从居中改为靠左 */
+.contact-page,
+.frame-17,
+.frame-18 {
+  display: flex; /* 若原本就是 flex，保留 */
+  flex-direction: column; /* 按需要 */
+  align-items: flex-start !important;
+}
+
+/* 保险：把具体文本也设为左对齐，防止被父级覆盖 */
+.contact-us,
+.reach-out-to-the-course-team-for-support-or-inquiries,
+.professor-contact,
+.paul-t-shapiro-pshapiro-umd-edu,
+.ta-contact,
+.abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu {
+  text-align: left !important;
+}
